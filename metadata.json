@@ -1,0 +1,6 @@
+{
+  "name": "3Line Gadgets",
+  "description": "Production-ready foundation for 3Line Gadgets importation and retail e-commerce platform with Supabase integration, authentication architecture, and comprehensive database schema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
